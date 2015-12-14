@@ -23,6 +23,7 @@ Subgroups
 ----
 Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3GTMWY3musJQounsQ956Ex09G95SIFaY6XM/viewform)
 
+- [HH Automotive](https://www.facebook.com/groups/HHautomotive/)
 - [HH Blog Posts](https://www.facebook.com/groups/685608641508735/)
 - [HH Book Club](https://www.facebook.com/groups/1283193408435026/)
 - [HH Code Reviews](https://www.facebook.com/groups/hh.code.reviews/)
